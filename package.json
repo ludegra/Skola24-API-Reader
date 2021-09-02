@@ -1,0 +1,31 @@
+{
+  "name": "schedule-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for showing the schedule form the timetable viever of skola24",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludegra/Schedule-Bot.git"
+  },
+  "keywords": [
+    "timetable",
+    "discordbot",
+    "schedule"
+  ],
+  "author": "Ludwig Granstedt",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ludegra/Schedule-Bot/issues"
+  },
+  "homepage": "https://github.com/ludegra/Schedule-Bot#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.4",
+    "@types/sharp": "^0.28.6"
+  },
+  "dependencies": {
+    "sharp": "^0.29.0"
+  }
+}
