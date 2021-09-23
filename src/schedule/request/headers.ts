@@ -17,7 +17,7 @@ const templateOptions = {
         "Content-Type": "application/json",
         "X-Scope": "8a22163c-8662-4535-9050-bc5e1923df48",
         "Content-Length": 0,
-        "Referer": "https://web.skola24.se/timetable/timetable-viewer/it-gymnasiet.skola24.se/IT-Gymnasiet%20G%C3%B6teborg/",
+        "Referer": "--link goes here--",
     }
 }
 
